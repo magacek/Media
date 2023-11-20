@@ -13,4 +13,5 @@ Portfolio Pictures
 ![icons8-java-48](https://github.com/magacek/Media/assets/70607808/59732b05-69dc-4f2a-a978-9c5950f52d8e)
 ![icons8-python-48](https://github.com/magacek/Media/assets/70607808/c58c208f-877d-4c1d-a2e0-d451783f4021)
 ![icons8-javascript-48](https://github.com/magacek/Media/assets/70607808/bb8fb12e-df11-41bf-ba68-41aa2c75e68a)
-[icons8-kotlin-a-cross-platform,-statically-typed,-general-purpose-programming-language-with-type-inference-tal-revivo-color.zip](https://github.com/magacek/Media/files/13406287/icons8-kotlin-a-cross-platform.-statically-typed.-general-purpose-programming-language-with-type-inference-tal-revivo-color.zip)
+
+![icons8-kotlin-a-cross-platform,-statically-typed,-general-purpose-programming-language-with-type-inference-48](https://github.com/magacek/Media/assets/70607808/e9e8604b-b98d-4956-86d4-1fde77ef52fb)
