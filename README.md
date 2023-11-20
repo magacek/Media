@@ -24,3 +24,4 @@ Portfolio Pictures
 ![icons8-tailwind-css-48](https://github.com/magacek/Media/assets/70607808/fd18da0c-1f55-4a91-94fb-fd315cc2d33f)![icons8-expo-48](https://github.com/magacek/Media/assets/70607808/ca9a6467-6142-40e7-813b-802cb9ee2c74)
 
 ![icons8-google-cloud-48](https://github.com/magacek/Media/assets/70607808/b881ccbb-2013-4ebe-b176-54337ed1c937)
+![icons8-django-50](https://github.com/magacek/Media/assets/70607808/6aed322a-eb01-4704-948d-e47ddc550ef0)
