@@ -15,3 +15,11 @@ Portfolio Pictures
 ![icons8-javascript-48](https://github.com/magacek/Media/assets/70607808/bb8fb12e-df11-41bf-ba68-41aa2c75e68a)
 
 ![icons8-kotlin-a-cross-platform,-statically-typed,-general-purpose-programming-language-with-type-inference-48](https://github.com/magacek/Media/assets/70607808/e9e8604b-b98d-4956-86d4-1fde77ef52fb)
+
+![icons8-react-40](https://github.com/magacek/Media/assets/70607808/ef07bffe-bcba-4c4f-94a9-d2ae3795ff1e)
+![icons8-expo-50](https://github.com/magacek/Media/assets/70607808/a1b8923e-b27b-49ac-8e5e-d035f64f1858)
+![icons8-nodejs-48](https://github.com/magacek/Media/assets/70607808/227cafa2-9514-4433-9208-f44e03ffa74f)
+![icons8-nextjs-48](https://github.com/magacek/Media/assets/70607808/3c4184df-b0c3-4b6d-98f8-79e7f5bd50a1)
+![icons8-django-48](https://github.com/magacek/Media/assets/70607808/7d5c2dc9-20b5-480b-b4be-721eacc1b12e)
+![icons8-tailwind-css-48](https://github.com/magacek/Media/assets/70607808/fd18da0c-1f55-4a91-94fb-fd315cc2d33f)
+![icons8-google-cloud-48](https://github.com/magacek/Media/assets/70607808/b881ccbb-2013-4ebe-b176-54337ed1c937)
