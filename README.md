@@ -35,7 +35,8 @@ Portfolio Pictures
 
 ![Productpic2](https://github.com/magacek/Media/assets/70607808/52e8c352-eccc-4daa-95bc-cdc86d9ac33d)
 
-![Alec Skriloff Resume-1](https://github.com/magacek/Media/assets/70607808/e3e3f87a-5ebd-414e-b94e-69249bc58ee9)
+
+![Alec Skriloff Resume](https://github.com/magacek/Media/assets/70607808/061c4aaf-bb92-46b5-b395-e6a64090f9db)
 
 
 
