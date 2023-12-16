@@ -34,9 +34,26 @@ Portfolio Pictures
 ![Productpic](https://github.com/magacek/Media/assets/70607808/d3462725-c29a-42e1-a0df-32d3bf7d0a43)
 
 ![Productpic2](https://github.com/magacek/Media/assets/70607808/52e8c352-eccc-4daa-95bc-cdc86d9ac33d)
+![bk3](https://github.com/magacek/Media/assets/70607808/5493f8ab-bdd8-41a8-aa23-88f50ba42e63)
+![arby2](https://github.com/magacek/Media/assets/70607808/85e3bf83-faa1-41dc-936c-a29048d0336f)
 
 
-![Alec Skriloff Resume](https://github.com/magacek/Media/assets/70607808/061c4aaf-bb92-46b5-b395-e6a64090f9db)
+![arby2](https://github.com/magacek/Media/assets/70607808/8fc54139-a06e-4bc3-882b-14188e5e4bcc)
+![arby3](https://github.com/magacek/Media/assets/70607808/b54d36e0-4cef-4717-81a2-3ba2f6ea4afd)
+
+![bk2](https://github.com/magacek/Media/assets/70607808/b7372e11-1cf0-4504-9e1a-295b999dcd80)
+![bk3](https://github.com/magacek/Media/assets/70607808/3283d553-a6c1-4249-b3c1-d2ba13e76acd)
+
+
+![dk2](https://github.com/magacek/Media/assets/70607808/a7f37d9b-d537-4877-97e7-6c6e4481195a)
+![dk3](https://github.com/magacek/Media/assets/70607808/ca124bb5-785e-4e7e-9b6f-1778d642e99d)
+![domino2](https://github.com/magacek/Media/assets/70607808/eb731278-bae0-4993-b28f-cf3b4d27618c)
+
+![dominos3](https://github.com/magacek/Media/assets/70607808/05dafbf0-3852-4e9e-a50c-331933d18175)
+![mcdonalds2](https://github.com/magacek/Media/assets/70607808/d3bc2795-e513-4cdb-92cc-0dd72e79c3ab)![mcdonalds 3](https://github.com/magacek/Media/assets/70607808/3270d318-e7ab-4d91-807d-feac6b7471b4)
+
+
+
 
 
 
